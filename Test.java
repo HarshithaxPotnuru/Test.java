@@ -1,5 +1,5 @@
-
-public class Testjava{
+import java.util.*;
+public class Test{
 public static void main(String[] args){
 System.out.println("HELLO WORLD");
 }
